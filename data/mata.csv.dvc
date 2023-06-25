@@ -1,0 +1,5 @@
+outs:
+- md5: 59952b0d4c6b3e58205dc2c410582e5b
+  size: 91259809
+  hash: md5
+  path: mata.csv
